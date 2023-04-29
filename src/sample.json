@@ -1,0 +1,90 @@
+
+
+{
+  "action": "addNotes",
+  "version": 6,
+  "params": {
+    "notes": [
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 1",
+          "Back": "Answer 1"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 2",
+          "Back": "Answer 2"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 3",
+          "Back": "Answer 3"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 4",
+          "Back": "Answer 4"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 5",
+          "Back": "Answer 5"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 6",
+          "Back": "Answer 6"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 7",
+          "Back": "Answer 7"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 8",
+          "Back": "Answer 8"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 9",
+          "Back": "Answer 9"
+        }
+      },
+      {
+        "deckName": "MyDeck",
+        "modelName": "Basic",
+        "fields": {
+          "Front": "Question 10",
+          "Back": "Answer 10"
+        }
+      }
+    ]
+  }
+}
